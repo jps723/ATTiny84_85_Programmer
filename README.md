@@ -1,5 +1,7 @@
 # ATTiny Programming Jig Build Notes                                                                    	1/5/20
  
+This project is in partnership with [Bantam Tools](https://www.bantamtools.com)
+
 **Design Notes:**
 
 **LEDs**
